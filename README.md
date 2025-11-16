@@ -1,4 +1,4 @@
-# Protein AI
+# Protein data AI
 
 A collection of projects (study notes) on the application of AI/ML to problems in protein bioinformatics, including structure prediction, folding, and binding.
 
